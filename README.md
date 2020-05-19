@@ -10,7 +10,7 @@ The plugin uses Google [Application Default Credentials](https://cloud.google.co
 authentication. Add this to your `project.clj`:
 
 ```clojure
-:plugins [[polvotech/lein-artifact-registry "0.1.0"]]
+:plugins [[polvo/lein-artifact-registry "0.1.0"]]
 :repositories [["snapshots" {:url "artifact-registry://..."}]
                ["releases"  {:url "artifact-registry://..."}]]
 ```
