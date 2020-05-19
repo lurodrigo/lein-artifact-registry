@@ -7,7 +7,7 @@ This is a minimal wrapper around [artifact-registry-maven-wagon](https://github.
 
 ## Usage
 
-The plugin uses Google [Application Default Credentials](https://cloud.google.com/docs/authentication/production) for
+The plugin uses Google [Application Default Credentials](https://cloud.google.com/sdk/gcloud/reference/auth/application-default/login) for
 authentication. Add this to your `project.clj`:
 
 ```clojure
