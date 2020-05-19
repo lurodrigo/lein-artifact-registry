@@ -1,4 +1,5 @@
 # lein-artifact-registry
+[![Clojars Project](https://img.shields.io/clojars/v/polvo/lein-artifact-registry.svg)](https://clojars.org/polvo/lein-artifact-registry)
 
 Allows using Google Artifact Registry repositories [Leiningen](https://github.com/technomancy/leiningen) projects.
 This is a minimal wrapper around [artifact-registry-maven-wagon](https://github.com/GoogleCloudPlatform/artifact-registry-maven-tools).
