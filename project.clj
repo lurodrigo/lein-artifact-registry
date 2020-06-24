@@ -1,4 +1,4 @@
-(defproject polvo/lein-artifact-registry "0.1.0"
+(defproject lurodrigo/lein-artifact-registry "0.1.0"
   :description "Plugin for using Google Artifact Registry in Leiningen."
   :url "https://github.com/polvotech/lein-artifact-registry"
   :license {:name "MIT License"
